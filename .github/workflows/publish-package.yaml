@@ -16,9 +16,6 @@ jobs:
       run:
         working-directory: bar-chart
 
-    strategy:
-      fail-fast: true
-
     steps:
       - uses: actions/checkout@v2
 
