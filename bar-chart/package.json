@@ -1,9 +1,14 @@
 {
-  "name": "bar-chart",
+  "name": "@tiaandt01/bar-chart",
   "description": "Webcomponent bar-chart following open-wc recommendations",
   "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/tiaandt01/testnpm-barchart.git",
+		"directory": "packages/barchart"
+	},
   "author": "bar-chart",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/src/index.js",
   "module": "dist/src/index.js",
